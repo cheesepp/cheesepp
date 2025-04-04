@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nhat Tri Tran Dinh
 
-## Software Engineer | Frontend & AI Developer
+## Software Engineer | Frontend/Mobile & AI Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/nhattri/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:nhattri2904@gmail.com)
