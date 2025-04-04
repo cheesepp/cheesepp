@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nhat Tri Tran
+# 👋 Hi, I'm Nhat Tri Tran Dinh
 
 ## Software Engineer | Frontend & AI Developer
 
